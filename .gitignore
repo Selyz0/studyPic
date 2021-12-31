@@ -1,3 +1,7 @@
+# ignore directory
+Gasyori100knock/
+ans_images/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
